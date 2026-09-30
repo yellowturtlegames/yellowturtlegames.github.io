@@ -1,0 +1,19 @@
+{
+  "missions": [
+    {"id": "merge", "target": 15, "reward": 20, "group": 0},
+    {"id": "games", "target": 2, "reward": 20, "group": 0},
+    {"id": "score", "target": 800, "reward": 30, "group": 1},
+    {"id": "make", "tier": 3, "target": 3, "reward": 30, "group": 1},
+    {"id": "combo", "target": 3, "reward": 40, "group": 2},
+    {"id": "reach", "tier": 5, "target": 1, "reward": 50, "group": 2}
+  ],
+  "special_days": {},
+  "bonus_reward": 100,
+  "ad_fish_reward": 25,
+  "ad_fish_per_day": 3,
+  "game_fish_points": 100,
+  "king_fish": 50,
+  "free_games": 2,
+  "play_gap": 180,
+  "gift_when_no_ad": true
+}
