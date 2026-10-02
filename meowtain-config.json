@@ -15,5 +15,6 @@
   "king_fish": 50,
   "free_games": 2,
   "play_gap": 180,
-  "gift_when_no_ad": true
+  "gift_when_no_ad": true,
+  "unlock_all": true
 }
