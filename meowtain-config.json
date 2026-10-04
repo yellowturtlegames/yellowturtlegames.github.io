@@ -1,11 +1,19 @@
 {
   "missions": [
-    {"id": "merge", "target": 15, "reward": 20, "group": 0},
-    {"id": "games", "target": 2, "reward": 20, "group": 0},
-    {"id": "score", "target": 800, "reward": 30, "group": 1},
-    {"id": "make", "tier": 3, "target": 3, "reward": 30, "group": 1},
-    {"id": "combo", "target": 3, "reward": 40, "group": 2},
-    {"id": "reach", "tier": 5, "target": 1, "reward": 50, "group": 2}
+    {"id": "score", "target": 1000, "reward": 20, "group": 0},
+    {"id": "merge", "target": 100, "reward": 20, "group": 0},
+    {"id": "games", "target": 3, "reward": 25, "group": 0},
+    {"id": "make", "tier": 6, "target": 3, "reward": 25, "group": 0},
+    {"id": "combo", "target": 3, "reward": 20, "group": 0},
+    {"id": "score", "target": 2000, "reward": 40, "group": 1},
+    {"id": "reach", "tier": 8, "target": 1, "reward": 40, "group": 1},
+    {"id": "make", "tier": 7, "target": 3, "reward": 40, "group": 1},
+    {"id": "merge", "target": 300, "reward": 35, "group": 1},
+    {"id": "games", "target": 5, "reward": 35, "group": 1},
+    {"id": "combo", "target": 4, "reward": 35, "group": 1},
+    {"id": "score", "target": 3000, "reward": 90, "group": 2},
+    {"id": "reach", "tier": 9, "target": 1, "reward": 100, "group": 2},
+    {"id": "make", "tier": 8, "target": 3, "reward": 90, "group": 2}
   ],
   "special_days": {},
   "bonus_reward": 100,
