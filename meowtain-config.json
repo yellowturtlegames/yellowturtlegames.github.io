@@ -13,7 +13,8 @@
     {"id": "combo", "target": 4, "reward": 35, "group": 1},
     {"id": "score", "target": 3000, "reward": 90, "group": 2},
     {"id": "reach", "tier": 9, "target": 1, "reward": 100, "group": 2},
-    {"id": "make", "tier": 8, "target": 3, "reward": 90, "group": 2}
+    {"id": "make", "tier": 8, "target": 3, "reward": 90, "group": 2},
+    {"id": "combo", "target": 5, "reward": 80, "group": 2}
   ],
   "special_days": {},
   "bonus_reward": 100,
@@ -23,6 +24,6 @@
   "king_fish": 50,
   "free_games": 2,
   "play_gap": 180,
-  "gift_when_no_ad": true,
+  "gift_when_no_ad": false,
   "unlock_all": true
 }
