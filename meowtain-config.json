@@ -25,5 +25,5 @@
   "free_games": 2,
   "play_gap": 180,
   "gift_when_no_ad": false,
-  "unlock_all": true
+  "unlock_all": false
 }
